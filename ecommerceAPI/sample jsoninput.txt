@@ -1,0 +1,16 @@
+{
+  "customerEmail": "email",
+  "customerAddress": "house",
+  "orderItem": [
+    {
+      "productName": "A",
+      "quantity": 1,
+      "price": 2
+    },
+   {
+      "productName": "B",
+      "quantity": 3,
+      "price": 4
+    }
+  ]
+}
